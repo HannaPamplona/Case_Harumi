@@ -1,0 +1,3 @@
+
+Status do modelo: 9
+Nenhuma solução factível encontrada.
